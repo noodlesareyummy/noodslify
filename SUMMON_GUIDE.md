@@ -8,6 +8,7 @@ how it works :P
 - when it responds u can type the command u wanna run in chat! :D
 
 for example:
+
 ![Coolify Preview](coolify_preview.png)
 
 
