@@ -3,7 +3,7 @@
 
 how it works :P
 
-- summon commands are used in any chat (*not* slash commands)
+- summon commands are used in any chat (_not_ slash commands)
 - start with pinging @Noodslify or just typing his name in chat
 - when it responds u can type the command u wanna run in chat! :D
 
